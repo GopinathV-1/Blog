@@ -170,12 +170,12 @@ button:hover{
   }
   button{
     width: 40%;
-    border: 25px 10px;
-    padding: 30px 5px;
+    border: 20px 10px;
+    padding: 25px 5px;
     background-color: #21f2ef;
     border-radius: 3px;
     cursor: pointer;
-    font-size: 200%;
+    font-size: 220%;
   }
   .footer-link img{
     width: 10%;
