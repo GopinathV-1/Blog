@@ -142,7 +142,8 @@ button:hover{
   .intro{
     width:85%;
     margin: 0 5px;
-    align-items: center;
+    align-items: center; 
+    line-height: 2;
   }
   .skill-row{
     width: 92%;
