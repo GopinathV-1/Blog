@@ -170,8 +170,8 @@ button:hover{
   }
   button{
     width: 40%;
-    border: 50px 10px;
-    padding: 60px 5px;
+    border: 25px 10px;
+    padding: 30px 5px;
     background-color: #21f2ef;
     border-radius: 3px;
     cursor: pointer;
